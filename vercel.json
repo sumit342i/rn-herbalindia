@@ -13,7 +13,3 @@
     }
   ]
 }
-
-{
-  "buildCommand": "npm install"
-}
